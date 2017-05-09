@@ -1,5 +1,9 @@
 XIZ FRAMEWORK
 
+Written and developed by Jon Belelieu (@jbelelieu).
+
+PHP 5.5+
+
 This is a simple lightweight MVC-based PHP framework that is currently in alpha testing.
 
 THIS IS NOT MEANT FOR PRODUCTION USE!
