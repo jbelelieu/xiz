@@ -1,0 +1,31 @@
+{
+  "name": "nabelife/admin",
+  "description": "Administrative functions for NabeLife.",
+  "keywords": [],
+  "license": "Commercial",
+  "type": "project",
+  "require": {
+    "php": ">=5.5.0",
+    "nikic/fast-route": "^1.0"
+  },
+  "authors": [
+    {
+      "name": "NabeLife",
+      "email": "dev@nabelife.com"
+    },
+    {
+      "name": "Jon Belelieu",
+      "email": "jon@castlamp.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Model\\": "model/",
+      "Lib\\": "lib/",
+      "Controller\\": "controller/"
+    }
+  },
+  "config": {
+    "preferred-install": "dist"
+  }
+}
