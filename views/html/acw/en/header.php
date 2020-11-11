@@ -38,13 +38,12 @@
     <div class="row">
         <div class="column" id="logo">
             <a href="/">
-                <img src="/img/icon.png" alt="NabeLife" />
+                <img src="/img/icon.png" alt="" />
             </a>
         </div>
         <div class="column" id="sidebar">
             <ul id="menu">
-                <li><a href="/nicoleFromNabe">Nicole</a></li>
-                <li><a href="/users">Users</a></li>
+                <li><a href="/">Home</a></li>
             </ul>
         </div>
     </div>
